@@ -1,3 +1,13 @@
+/* CST8110 - Introduction to Computer Programming
+ * Section: 451
+ * Semester: 2020S
+ * Professor: Piyush Jangam
+ * Student ID: 040988707
+ * Student Email: gnan0009@algonquinlive.com
+ * Assignment 2
+ */
+
+
 import java.util.Scanner;
 
 public class TestMax {
